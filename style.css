@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(#7dc3f8, #2a7ac5, #1d507d);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.temp{
+    border-color: white;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.42);   
+}
+.city{
+    font-size: 32px;
+}
+
+.date{  
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.hi-low{
+    font-size: 22px;
+}
+
