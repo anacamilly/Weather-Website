@@ -1,6 +1,6 @@
 # WEATHER ⛅
 
-Website de clima que consulta e exibe a temperatura e tempo de um determidado local.
+Website de clima que consulta e exibe a temperatura e tempo de um determinado local.
 
 ### Utiliza:
 * HTML
